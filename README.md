@@ -6,6 +6,10 @@ How to use
 
 ***python wrx.py btcinr***
 
+or simply use 
+***wrx.py btcinr***
+(in linux ' chmod +x wrx.py ' first time)
+
 change btcinr to your preffered coin pair
 
 ***requirements***
