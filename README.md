@@ -5,6 +5,6 @@ Writter in python.
 How to use 
 
 
-##python wrx.py btcinr
+## python wrx.py btcinr
 
 change btcinr to your preffered coin pair
