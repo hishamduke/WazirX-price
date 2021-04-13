@@ -7,3 +7,7 @@ How to use
 ***python wrx.py btcinr***
 
 change btcinr to your preffered coin pair
+
+***requirements***
+
+pip install requests
