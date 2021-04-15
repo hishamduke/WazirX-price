@@ -27,4 +27,3 @@ for obj in response:
 ogval = float(price) * float(val)
 
 print(f'binance price is {ogval}')
-b
