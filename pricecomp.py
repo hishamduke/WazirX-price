@@ -14,7 +14,7 @@ for obj in response:
     price = obj['price']
     break
 
-    print(f'{coin} wazirx price is {price}')
+print(f'{coin} wazirx price is {price}')
 
 url="https://api.wazirx.com/api/v2/trades?market=usdtinr"
 
@@ -27,3 +27,4 @@ for obj in response:
 ogval = float(price) * float(val)
 
 print(f'binance price is {ogval}')
+b
