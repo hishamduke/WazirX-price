@@ -16,7 +16,7 @@ change btcinr to your preffered coin pair
 ***pricecomp***
 
 
-pricecomp.py 1.54 batinr
+pricecomp.py batinr 1.54
 (check current value from binance,in this case 1.54)
 
 
