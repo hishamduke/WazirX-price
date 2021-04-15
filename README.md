@@ -12,6 +12,12 @@ or simply use
 
 change btcinr to your preffered coin pair
 
+
+***pricecomp***
+pricecomp.py 1.54 batinr
+(check current value from binance,in this case 1.54)
+
+
 ***requirements***
 
 pip install requests
