@@ -15,6 +15,7 @@ change btcinr to your preffered coin pair
 
 
 ***price2.py***
+
 price2.py BTC
 
 
