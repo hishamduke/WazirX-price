@@ -11,9 +11,12 @@ or simply use
 (in linux ' chmod +x wrx.py ' first time)
 
 change btcinr to your preffered coin pair
+***price2.py***
+price2.py BTC
 
 
-***pricecomp***
+
+***pricecomp(deprecate use V2)***
 
 
 pricecomp.py batinr 1.54
@@ -23,3 +26,4 @@ pricecomp.py batinr 1.54
 ***requirements***
 
 pip install requests
+pip install cryptocompare
