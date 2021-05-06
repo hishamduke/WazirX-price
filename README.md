@@ -16,9 +16,10 @@ change btcinr to your preffered coin pair.
 
 ***price2.py***
 
-price2.py BTC i
-
-change i to u for usdt in wazirx.
+price2.py BTC 
+or use 
+price2.py BTC u 
+for BtcUsdt in wazirx.
 
 
 
