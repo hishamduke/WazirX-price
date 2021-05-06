@@ -5,9 +5,11 @@ import sys
 import cryptocompare
 
 coin = sys.argv[1]
-choice = sys.argv[2]
+try:
+    choice = sys.argv[2]
+except:
+    choice = 'i'
 cryptprice = cryptocompare.get_price(coin, currency="USDT")
-
 
 temp = str(cryptprice.values())
 a=temp.split()
