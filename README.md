@@ -6,17 +6,19 @@ How to use
 
 ***python wrx.py btcinr***
 
-or simply use 
+or simply use ,
 ***wrx.py btcinr***
 (in linux ' chmod +x wrx.py ' first time)
 
-change btcinr to your preffered coin pair
+change btcinr to your preffered coin pair.
 
 
 
 ***price2.py***
 
-price2.py BTC
+price2.py BTC i
+
+change i to u for usdt in wazirx.
 
 
 
