@@ -34,7 +34,7 @@ print()
 print(f'__________ {coin} __________')
 print()
 print(f'wazirx price   :  {price}')
-wrx=price
+wrx = price
 
 price=1
 
