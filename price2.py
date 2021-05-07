@@ -34,7 +34,7 @@ print()
 print(f'__________ {coin} __________')
 print()
 print(f'wazirx price   :  {price}')
-
+wrx=price
 
 price=1
 
@@ -46,8 +46,10 @@ if choice == 'i':
         break
 
 ogval = float(price) * float(val)
+perc=((float(wrx)-ogval)/ogval)*100
 
 print(f'binance price  :  {ogval}')
+print('difference     : '+str(perc)[:7]+'%')
 print('____________________________')
 print()
 
