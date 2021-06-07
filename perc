@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+import sys
+a = int(sys.argv[1])
+b = int(sys.argv[2])
+c = (a-b)
+a = (a+b)
+b = c/a*100
+print(b)
